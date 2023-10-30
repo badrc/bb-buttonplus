@@ -1,7 +1,7 @@
 {
-  "name": "bb-buttonplus",
+  "name": "bb-buttonplus2",
   "version": "1.0.1",
-  "description": "A Extended version of a button",
+  "description": "A Extended version of a button + animation",
   "license": "MIT",
   "author": "Matthew Strachan",
   "svelte": "index.js",

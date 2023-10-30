@@ -58,4 +58,18 @@
 	animation: shake 0.4s ease-out; 
   }
   
+	/* Use the keyframes for defining  
+	the animation */ 
+	@keyframes shake { 
+		0% {transform: skewX(-10deg);} 
+
+		25% {transform: skewX(10deg);} 
+
+		50% {transform: skewX(-10deg);} 
+
+		75% {transform: skewX(10deg);} 
+
+		100% {transform: skewX(-10deg);} 
+	} 
+ 
 </style>
