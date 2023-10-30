@@ -55,5 +55,7 @@
     background-color: var(--bgHover, black);
     color: var(--txtHover, white);
     border-color: var(--brdHover, white);
+	animation: shake 0.4s ease-out; 
   }
+  
 </style>
